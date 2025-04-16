@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mermc  
-- 🌱 I’m currently learning coding 
+- 🌱 I’m currently learning how to program cross-platform applications
 - 😄 Pronouns: she/her
 
 <!---
